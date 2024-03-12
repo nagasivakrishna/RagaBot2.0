@@ -1,9 +1,6 @@
 # RagaBot2.0
 Raga Bot 2.0 Github Repo
 
-
-# <<<... ReAd mE ...>>>
-
 ## Config and personalization
 ###
 Values.py holds all the variables. customize it to your liking.
