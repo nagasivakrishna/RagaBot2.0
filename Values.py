@@ -1,7 +1,7 @@
 #config
 songAllowedLength = 12
 responses = [
-  "I Wuv Uh", "Henloo", "This is a random A** response", "Made by causticfartz",
+  "I Wuv Uh", "Henloo", "This is a random response", "Made by causticfartz",
   "Do you know that rabbits live in burrows",
   "I am a bot just like you in valorant", "Damn, I'm hot",
   "Go Study! how long are you gonna play?",
@@ -10,9 +10,9 @@ responses = [
   "( ｡ᵘ ᵕ ᵘ ｡)", "( ͡o ꒳ ͡o )", "Bad plug but im a bot made by causticfartz. I call him DADDY", "$help"
 ]
 
-playingList = ["Life at hardcore mode","with Daddy Caustic","with Fembois","with naive people","$help","with myself","with my code","Minecraft","Spotify","Soundcould","Pokemon","Music for you","Valorant","like a bot", "on Stereo","World strategies","a buggy Bethesda game","with my Bot-ussy","Dinosaur game on chrome","with feelings",""]
+playingList = ["Life at hardcore mode","with Daddy Caustic","with my bois","with naive people","$help","with myself","with my code","Minecraft","Spotify","Soundcould","Pokemon","Music for you","Valorant","like a bot", "on Stereo","World strategies","a buggy Bethesda game","with my Bot-jokie","Dinosaur game on chrome","with feelings",""]
 replit_url = "https://replit.com/@V-sivakrishnasi"
-bot_colour = 0x4cb399
+bot_colour = 0x4cb399 # paste any hex to your liking
 bot_name = "Raga Bot 2.0"
 bot_icon = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR33565vSTB7gHLA0vPIo9KiZNp2ocgY3SvRbUyro0&s"
 TypingSleepTimer=3
