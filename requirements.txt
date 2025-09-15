@@ -91,7 +91,7 @@ typing-extensions @ https://files.pythonhosted.org/packages/74/60/18783336cc7fcd
 ujson @ https://files.pythonhosted.org/packages/23/46/874217a97b822d0d9c072fe49db362ce1ece8e912ea6422a3f12fa5e56e1/ujson-5.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=54384ce4920a6d35fa9ea8e580bc6d359e3eb961fa7e43f46c78e3ed162d56ff
 urllib3 @ https://files.pythonhosted.org/packages/fe/ca/466766e20b767ddb9b951202542310cba37ea5f2d792dae7589f1741af58/urllib3-1.26.14-py2.py3-none-any.whl#sha256=75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1
 utils @ https://files.pythonhosted.org/packages/55/e6/c2d2b2703e7debc8b501caae0e6f7ead148fd0faa3c8131292a599930029/utils-1.0.1-py2.py3-none-any.whl#sha256=ff04549b95deb2fd7a82ddaea077e2f41209079e2482df231c358770b27b72a7
-virtualenv==20.17.1
+virtualenv==20.26.6
 webencodings==0.5.1
 websocket-client @ https://files.pythonhosted.org/packages/6d/9a/6c793729c9d48fcca155ce55e4dfafacffb7fb52a62e3ae2198846c31af6/websocket_client-1.5.1-py3-none-any.whl#sha256=cdf5877568b7e83aa7cf2244ab56a3213de587bbe0ce9d8b9600fc77b455d89e
 Werkzeug @ https://files.pythonhosted.org/packages/c8/27/be6ddbcf60115305205de79c29004a0c6bc53cec814f733467b1bb89386d/Werkzeug-2.2.2-py3-none-any.whl#sha256=f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5
